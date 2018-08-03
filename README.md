@@ -5,4 +5,5 @@
 - Insert at the end of user profile file (~/.profile):
 
         /path/to/script/keyboardLedOn.sh
+- Logout an enter again
 
