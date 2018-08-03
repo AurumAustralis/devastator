@@ -6,4 +6,3 @@
 
         /path/to/script/keyboardLedOn.sh
 - Logout an enter again
-
